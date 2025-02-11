@@ -4,7 +4,7 @@ img {
 }
 
  body {
-    font-family: 'Modern';
+    font-family: 'Courier New', monospace;
     background: url('http://raw.githubusercontent.com/alyalgendy/Static-Website/refs/heads/main/bgimage.jfif') no-repeat center center fixed;
     background-size: cover;
     color: #FDFD96;
