@@ -1,15 +1,12 @@
 img {
-    width: 350px;
-    height: 350px;
+    width: 500px;
+    height: 500px;
 }
 
  body {
-        font-family: 'Modern';
-        background: url('http://raw.githubusercontent.com/alyalgendy/Static-Website/refs/heads/main/bgimage.jfif') no-repeat center center fixed;
-        background-size: cover;
-        color: #FDFD96;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-    }
+    font-family: 'Modern';
+    background: url('http://raw.githubusercontent.com/alyalgendy/Static-Website/refs/heads/main/bgimage.jfif') no-repeat center center fixed;
+    background-size: cover;
+    color: #FDFD96;
+    text-align: center;
+}
