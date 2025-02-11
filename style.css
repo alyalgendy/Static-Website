@@ -1,10 +1,15 @@
 img {
-    width: 200px;
+    width: 350px;
+    hight: 350px;
 }
 
-body {
-    text-align: center;
-    font-family: 'arial';
-    background: rgb(142, 164, 54);
-    color: turquoise;
-}
+ body {
+        font-family: 'Modern';
+        background: url('http://raw.githubusercontent.com/alyalgendy/Static-Website/refs/heads/main/bgimage.jfif') no-repeat center center fixed;
+        background-size: cover;
+        color: #FDFD96;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
